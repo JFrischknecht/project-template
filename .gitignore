@@ -57,6 +57,7 @@ latex.out/
 # --- VS-Code specific ignores below ---
 
 *.code-workspace
+.vscode/
 
 
 # --- R specific ignores below ---
