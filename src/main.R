@@ -1,0 +1,6 @@
+library(renv)
+library(vscDebugger)
+library(httpgd)
+library(languageserver)
+library(tidyverse)
+library(targets)
